@@ -9,7 +9,7 @@ To write a C program to find the smallest among three numbers using Structure.
 3. Write program to find the smallest among the three numbers.
 4. Read the value using scanf.
 5. Ask the user to make an input.
-6. Print out the answer.
+6. Print out the answer. 
 7. End  
 
 ## Program:
